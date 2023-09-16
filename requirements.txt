@@ -1,7 +1,0 @@
-tensorflow
-pandas
-numpy
-cv2
-os
-scikit-learn
-streamlit
